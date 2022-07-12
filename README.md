@@ -1,1 +1,1 @@
-# Formulário de envio de emil usando PDO.
+# Formulário de envio de email usando PDO.
